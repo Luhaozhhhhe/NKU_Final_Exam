@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./nku_final_exam_image.png" alt="NKU_Final_Exam" />
-  <h3>南开大学计算机学院和网络空间安全学院往年期末真题</h3>
+  <h3>南开大学计算机学院和密码与网络空间安全学院往年期末真题</h3>
 
   <img style="display: inline-block;" src="https://img.shields.io/github/watchers/Luhaozhhhhe/NKU_Final_Exam" alt="GitHub watchers" />
   <a href="https://github.com/Luhaozhhhhe/NKU_Final_Exam/stargazers"><img style="display: inline-block;" src="https://img.shields.io/github/stars/Luhaozhhhhe/NKU_Final_Exam" alt="GitHub stars" /></a>
